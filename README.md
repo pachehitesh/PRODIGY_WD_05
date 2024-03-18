@@ -22,7 +22,7 @@ This repository hosts the source code for a Weather App, a web application desig
 
 
 # **Contact:**
-For any inquiries or feedback, please contact [Your Name] via email at [your.email@example.com].
+For any inquiries or feedback, please contact Hitesh Pache via email at pache26032000@gmail.com.
 
 # **Demo:**
 A live demo of the Weather App is available at [Demo Link].
